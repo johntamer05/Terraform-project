@@ -1,0 +1,2 @@
+public-ec2-az1: Public IP: 34.229.95.19, Private IP: 10.0.0.248
+public-ec2-az2: Public IP: 52.90.151.179, Private IP: 10.0.2.162
