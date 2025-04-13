@@ -1,8 +1,3 @@
-Absolutely! Here's a sample `README.md` tailored for your Terraform AWS modular infrastructure project. You can copy this into your repo’s root directory:
-
----
-
-```markdown
 # Terraform AWS Modular Infrastructure
 
 ## 🚀 Project Overview
@@ -92,12 +87,3 @@ All EC2 public/private IPs are logged to a file `all-ips.txt` using `local-exec`
 - Access to an AWS account
 - SSH key pair
 - Git
-
-## 👨‍💻 Author
-
-John Tamer — System Administration Trainee @ ITI  
-GitHub: [@johntamer05](https://github.com/johntamer05)
-
----
-
-Let me know if you'd like to add screenshots, architecture diagrams, or link it to your Jenkins pipeline when ready!
