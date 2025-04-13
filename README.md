@@ -85,9 +85,6 @@ All EC2 public/private IPs are logged to a file `all-ips.txt` using `local-exec`
 - Uses a remote backend for state file storage (e.g., S3 + DynamoDB or other)
 - Ensures consistent infrastructure management across environments
 
-## 🔄 CI/CD (Coming Soon)
-- Jenkins pipeline to automate Terraform deployment (WIP)
-
 ## 📌 Requirements
 
 - Terraform ≥ 1.3.0
